@@ -23,3 +23,14 @@ To start project use command
 
 ### Project Screen shot:
   ![Project scree1](https://www.scoro.com/wp-content/uploads/2023/08/23.8_Budget_burn-650x318.png)
+
+### First Command
+  To start project use `git init` command
+---
+### Code Part:
+  ```python
+    def hello():
+      print('Hello World')
+
+    hello()
+  ```
