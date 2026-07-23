@@ -13,4 +13,8 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias dolorum mini
   2. sub-objective
 - Screen shot
 - code
-- conclusion 
+- conclusion
+
+### How to start
+To start project use command
+> git init start fourth-project
